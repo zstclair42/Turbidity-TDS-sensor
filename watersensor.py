@@ -1,4 +1,4 @@
-rom machine import ADC, Pin, I2C
+from machine import ADC, Pin, I2C
 import ssd1306
 import time
 
